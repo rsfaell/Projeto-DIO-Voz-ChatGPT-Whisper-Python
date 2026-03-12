@@ -1,0 +1,1 @@
+# Projeto-DIO-Voz-ChatGPT-Whisper-Python
